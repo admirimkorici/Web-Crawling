@@ -1,6 +1,11 @@
-from urllib.request import urlopen
-from bs4 import BeautifulSoup as soup
-import re
+from bs4 import BeautifulSoup
 
-open = urlopen("https://www.900gpa.com/en/product/resin/ResinPreg_00EDB4EC83?u=metric")
-bsobj = soup(open.read())
+with open("C:/Users/user/OneDrive/Documents/Visual Studio Code/Python/Grid Coding/Web Crawling/home.html", 'r') as html_file:
+    content = html_file.read()
+    soup = BeautifulSoup(content, 'lxml')
+    course_carts = soup.find_all('div', class_='card')
+    for course in course_carts:
+        course_name = course.h5.text
+        course_price = course.a.text.split()[-1]
+
+        print(f'{course_name} costs {course_price}')
