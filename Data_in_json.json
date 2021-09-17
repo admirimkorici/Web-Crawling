@@ -1,0 +1,56 @@
+{
+    "Manufacturer Information": {
+        "Manufacturer: ": "Toray",
+        "HQ Location: ": "USA"
+    },
+    "Product Information": {
+        "Reference: ": "RS-8HT",
+        "Brand: ": "",
+        "Category: ": "Prepreg Resin",
+        "Matrix / Polymer Category: ": "Thermoset",
+        "Resin Type: ": "BMI"
+    },
+    "General Properties": {
+        "Density: ": "1.23 [g/cm3]",
+        "Moisture:   ": " N/A[%]",
+        "Toughened: ": " N/A",
+        "Out Life: ": "30 [Day]",
+        "Shelf Life: ": "6 [Month]"
+    },
+    "Processing Properties": {
+        "Curing Process: ": "AFP/ATL - Autoclave - Press - Post-curable",
+        "Transformation Process: ": "Prepreg",
+        "Cure Time/Temp: ": "2 [Hour] @204  [Grad C]",
+        "Minimum Viscosity:": "0.3 [Pa.s] @ 100 [Grad C] (with a ramp of 2 Grad C/min)",
+        "Gel Time: ": "17 min @177 [Grad C] (with a ramp of 2Grad C/min)"
+    },
+    "Mechanical Properties": {
+        "Tensile Modulus *: ": "t3.89 [GPa]",
+        "Tensile Strength *: ": "95.8 [MPa]",
+        "Tensile Strain*: ": "  3 [%] ",
+        "Compression Modulus : ": " N/A [GPa]",
+        "Compression Strength : ": " N/A    [MPa]",
+        "Flexural Modulus: ": " N/A    [GPa]",
+        "Flexural Strength: ": " N/A    [MPa]",
+        "K1c: ": " N/A    [MPa.m1/2]",
+        "G1c: ": " t208.8 [J/m2]"
+    },
+    "Thermal Properties": {
+        "Tg Onset Dry: ": "285 [Grad C]",
+        "Heat Deflection Temperature: ": " N/A    [Grad C]",
+        "Service Temperature: ": " N/A    [Grad C]",
+        "Tg after Post Cure: ": " 285 [Grad C]",
+        "Enthalpy:  ": " N/A    [J/g]"
+    },
+    "Electrical Properties": {
+        "Dielectric Constant: ": " N/A    @ 10GHz",
+        "Loss Tangent: ": " N/A    @ 10GHz"
+    },
+    "Other / Comments": {
+        "Prepreg Use: ": "Component",
+        "Impregnated Reinforcement: ": " N/A    - (show details)",
+        "Typical Applications: ": "Satellite Structures, Aerospace/Missile Structures, Electromagnetic/Dielectric Structures",
+        "Features: ": "Excellent Ambient and Elevated Temperature Properties / Good Moisture Resistance / Low Dielectric and Loss Tangent Over Wide Thermal and Electrical Ranges / Elevated Glass Transition Properties Available with Higher Cure or Post Cure / Good Handleability and Processing",
+        "Comment: ": "Also available: RS-8M, a high service temperature controlled flow formulation."
+    }
+}
